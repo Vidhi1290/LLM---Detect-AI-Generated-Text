@@ -53,9 +53,9 @@ Our solution follows a comprehensive approach to AI-generated text detection:
 We welcome contributions from the community! Whether you're a seasoned developer, a data science enthusiast, or a domain expert, your insights and expertise can enhance our project. 
 
 🚀 **Connect With Me:**
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/vidhi-waghela-434663198/)
-- Kaggle: [Your Kaggle Profile](https://www.kaggle.com/vidhikishorwaghela)
-- GitHub: [Your GitHub Profile](https://github.com/Vidhi1290)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/vidhi-waghela-434663198/)
+- Kaggle: [Kaggle Profile](https://www.kaggle.com/vidhikishorwaghela)
+- GitHub: [GitHub Profile](https://github.com/Vidhi1290)
 
 If you find this project interesting or helpful, don't hesitate to follow me for more exciting updates and projects! Let's learn and grow together! 🌟
 
