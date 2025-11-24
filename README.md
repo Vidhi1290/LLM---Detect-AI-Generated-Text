@@ -9,7 +9,9 @@ Welcome to our AI-Generated Text Detection project! In this repository, we prese
 - [Getting Started](#getting-started)
 - [How It Works](#how-it-works)
 - [Contributing](#contributing)
-- [License](#license)
+  
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Vidhi1290/LLM---Detect-AI-Generated-Text/blob/main/LICENSE) file for details.
 
 ## Introduction
 
